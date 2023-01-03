@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Sharma</h1>
 <h3 align="center">Exploring the intersection of technology and problem-solving</h3>
-
+<img align="right" alt="codingmeme" width="400" src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreme-trinity&label=Profile%20views&color=0e75b6&style=flat" alt="supreme-trinity" /> </p>
 
 - 🔭 I’m currently working on [WebGameDuo](https://github.com/Supreme-Trinity/WebGameDuo)
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/utkarsh-sharma-755447233/](https://www.linkedin.com/in/utkarsh-sharma-755447233/)
 
-- ⚡ Fun fact **With a knack for tackling complex problems and a never-say-die attitude, I'm always on the lookout for new challenges to flex my problem-solving muscles. Bring on the tough stuff!**
+- ⚡ Fun fact **With a knack for tackling complex problems and a never-say-die attitude, I'm always on the lookout for new challenges to flex my problem-solving muscles. Bring on the tough stuff!.....Also I love memes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
