@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Sharma</h1>
-<h3 align="center">Exploring the intersection of technology and problem-solving</h3>
+<h3 align="center">and I'm exploring the intersection of technology and problem-solving</h3>
 <img align="right" alt="codingmeme" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreme-trinity&label=Profile%20views&color=0e75b6&style=flat" alt="supreme-trinity" /> </p>
 
